@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oobaebaik.helenehahn.de/sitemap.xml
